@@ -1,5 +1,5 @@
 # Resilient
-An open source Mental Health App made in flutter which is in developing stage. 
+A Mental Health App made in flutter which is in developing stage. 
 
 Front-end version of the app:
 
